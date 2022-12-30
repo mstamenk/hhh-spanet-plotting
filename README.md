@@ -24,6 +24,6 @@ This sets up the working environment with the correct `python` and `ROOT` versio
 # Running the script
 ```
 cd hhh-spanet-plotting.git
-python plot_variables.py 
+python3 plot_variables.py 
 ```
 
